@@ -41,8 +41,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zeroqinmoon/zeroqinmoon/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroqinmoon&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
