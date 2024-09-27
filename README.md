@@ -1,5 +1,3 @@
-<h2 align="center">Bio</h2>
-<p align="center">Hi there 👋</p>
 <h2 align="center">Techs</h2>
 
 ###
